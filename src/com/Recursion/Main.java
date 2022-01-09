@@ -24,3 +24,4 @@ public class Main {
         nums[last] = temp;
     }
 }
+// using bubble sort, sorted the array
