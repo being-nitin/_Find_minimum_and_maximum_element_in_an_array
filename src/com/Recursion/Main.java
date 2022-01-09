@@ -25,3 +25,6 @@ public class Main {
     }
 }
 // using bubble sort, sorted the array
+/* after sorting the zeroth index  will be the minimum element and maximum element will be the
+last index
+ */
